@@ -33,7 +33,7 @@ This filter isn't perfect and will have both false positives and false negatives
 
 ## URLS, Hashtags, and User Mentions
 
-You can extract URLs, Hashtags, and User Mentions from the tweet into their own columns by using `--url-columns`, `--hashtag-columns`, and `--user-mention-columns`.
+You can extract URLs, Hashtags, and User Mentions from the tweet into their own columns by using `--url-columns`, `--hash-columns`, and `--user-mention-columns`.
 For example, you could use `--url-columns 3` to get up to 3 extracted URLs in their own columns.
 
 ## Sentiment Tagging
